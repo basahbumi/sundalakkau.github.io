@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sundalakkau.github.io/sitemap.xml
